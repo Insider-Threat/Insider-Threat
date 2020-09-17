@@ -47,7 +47,7 @@ Mitigations
 **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-
+|  | | | |  
 
 
 
