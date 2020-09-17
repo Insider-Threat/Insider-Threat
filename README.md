@@ -5,7 +5,7 @@
 | **Proactive Messures** | **Initial Discovery** | **Collection** | **Exfiltraction** | **Business Impact**|
 | :---: | :---: | :---: | :---: | :---: |
 | [DLP Enforcement](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1000-DLP%20Enforcement.md) | Browsing Job Sites | Downloads from Application |  Upload to 3rd Party File Share | Bulk Delete Files |
-| [Prevent Backups to Unapproved Storage Locations] (https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1001-Unapproved%20Storage%20Locations.md)  | Employees Facing Disiplinary Actions | Downloads from Internal File Share | External Email with Attachments | Destruction of Physical Device |
+| [Prevent Backups to Unapproved Storage Locations](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1001-Unapproved%20Storage%20Locations.md)  | Employees Facing Disiplinary Actions | Downloads from Internal File Share | External Email with Attachments | Destruction of Physical Device |
 | Employee Awareness | Pending Termination/Resignation | Downloads from Email | Upload to Removable Storage Device | Changing Service Account Password |
 | Collaboration with HR | Corporate Restructuring/Reduction in Workforce | Downloads from IM/Chat | AirDrop to a Device | Malicious Changes to Application/System |
 | Collaboration with Legal | Correspondence with Competitors | Downloads from Intranet | Printing | Malicious Social Media Post |
