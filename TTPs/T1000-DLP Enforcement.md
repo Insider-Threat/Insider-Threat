@@ -1,4 +1,4 @@
-#**DLP Enforcement**
+**DLP Enforcement**
 
 ID: T1000
 
@@ -27,7 +27,7 @@ Example Scenario:
 
 An employee is working on a project needs to send a file to a 3rd party. The DLP tool scans the file and finds that there is Source Code found inside, this will create an Alert for the SOC team and they will begin an investigation to validate the alert. 
 
-Mitigations
+**Mitigations**
 1. By blocking or preventing the data transfer when the DLP tool has a detection.
 2. By displaying a pop-up message, to inform the employee, that the DLP tool has detected something within their data transfer that may be sensitive and allow them to stop the data transfer. 
 
