@@ -38,7 +38,7 @@ An employee is planning on leaving the company, before their last day, they back
 | Group Name | Monitoring (Yes/No) |
 | :---: | :---:|
 | R&D	| Yes/No |
-| Sales | |
+| Sales | Yes/No |
 | Executives and Executive Assistants |	Yes/No |
 | IT Operations/InfoSec	| Yes/No |
 |Support Staff/Everyone Else | Yes/No|
