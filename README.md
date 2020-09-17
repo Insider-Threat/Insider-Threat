@@ -14,9 +14,9 @@
 | 1 | Activity Outside of Normal Scope | 3 | 4 | Misappropriations of Assets |
 | 1 | Activity Outside of Normal Hours | 3 | 4 | Forwarding Internal Communications to 3rd Party |
 | 1 | Creatation of New Account | 3 | 4 | Insider Trading Violations |
-| 1 | Correspondence with Former Employee | 3 | 4 | 5 |
-| 1 | 2 | 3 | 4 | 5 |
-| 1 | 2 | 3 | 4 | 5 |
+| 1 | Correspondence with Former Employee | 3 | 4 | Use of Offensive/Malicious Tools |
+| 1 | Modify/Delete Logs | 3 | 4 | 5 |
+| 1 | Use of Offensive/Malicious Tools | 3 | 4 | 5 |
 | 1 | 2 | 3 | 4 | 5 |
 | 1 | 2 | 3 | 4 | 5 |
 | 1 | 2 | 3 | 4 | 5 |
