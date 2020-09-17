@@ -39,7 +39,7 @@ An employee is working on a project needs to send a file to a 3rd party. The DLP
 | Group Name | Monitoring (Yes/No) |
 | :---: | :---:|
 | R&D	| Yes/No |
-| Sales | |
+| Sales | Yes/No|
 | Executives and Executive Assistants |	Yes/No |
 | IT Operations/InfoSec	| Yes/No |
 |Support Staff/Everyone Else | Yes/No|
