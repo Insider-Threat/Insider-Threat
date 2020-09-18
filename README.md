@@ -16,7 +16,7 @@
 |   | [Suspicious Creatation of New Account](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1014-Suspicious%20Creatation%20of%20New%20Account.md) | 3 | 4 | Insider Trading Violations |
 |   | [Correspondence with Former Employee](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1015-Correspondence%20with%20Former%20Employee.md) | 3 | 4 | Use of Offensive/Malicious Tools |
 |   | [Modify/Delete Logs](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1016-Modify-Delete%20Logs.md) | 3 | 4 | Exposure of Sensitive/Confidential Information in Public Repositories |
-|   | Use of Offensive/Malicious Tools | 3 | 4 | 5 |
+|   | [Use of Offensive/Malicious Tools](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1017-Use%20of%20Offensive-Malicious%20Tools.md) | 3 | 4 | 5 |
 |   | 2 | 3 | 4 | 5 |
 |   | 2 | 3 | 4 | 5 |
 |   | 2 | 3 | 4 | 5 |
