@@ -33,7 +33,7 @@ An employee is working on a project needs to send a file to a 3rd party. The DLP
 
 
 
-**Mitigations**
+
 
 **Groups Applied To:**
 | Group Name | Monitoring (Yes/No) |

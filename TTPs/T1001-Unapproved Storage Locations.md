@@ -32,7 +32,7 @@ An employee is planning on leaving the company, before their last day, they back
 
 
 
-**Mitigations**
+
 
 **Groups Applied To:**
 | Group Name | Monitoring (Yes/No) |
