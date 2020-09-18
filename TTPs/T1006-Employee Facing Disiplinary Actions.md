@@ -17,7 +17,7 @@ Created: 04/28/2020
 Last Modified: 04/28/2020
 
 
-**Overview:**
+## **Overview:**
 When an employee has been reported to have violated Corporate guidelines, additional monitoring may be needed pending the outcome of an investigation. The additional monitoring is required to help mitigate any risks if the allegation if found to be true and/or the employee takes any action that might harm the company.
 **Procedure Examples:**
 
