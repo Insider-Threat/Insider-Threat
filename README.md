@@ -13,7 +13,7 @@
 |   | Suspicious Intranet Activity | 3 | 4 | Excessive Overtime |
 |   | Activity Outside of Normal Scope | 3 | 4 | Misappropriations of Assets |
 |   | Activity Outside of Normal Hours | 3 | 4 | Forwarding Internal Communications to 3rd Party |
-|   | Creatation of New Account | 3 | 4 | Insider Trading Violations |
+|   | Suspicious Creatation of New Account | 3 | 4 | Insider Trading Violations |
 |   | Correspondence with Former Employee | 3 | 4 | Use of Offensive/Malicious Tools |
 |   | Modify/Delete Logs | 3 | 4 | Exposure of Sensitive/Confidential Information in Public Repositories |
 |   | Use of Offensive/Malicious Tools | 3 | 4 | 5 |
