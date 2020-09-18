@@ -1,6 +1,6 @@
 # Insider-Threat
 
-**Insider Threat Matrix**
+## **Insider Threat Matrix**
 
 | **Proactive Messures** | **Initial Discovery** | **Collection** | **Exfiltraction** | **Business Impact**|
 | :---: | :---: | :---: | :---: | :---: |
