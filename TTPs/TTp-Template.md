@@ -23,13 +23,16 @@ Last Modified: 04/28/2020
 
 Example Scenario:
 
+| Name | Description |
+| :---:| :---:|
+
 **Mitigations**
 
 **Groups Applied To:**
 | Group Name | Monitoring (Yes/No) |
 | :---: | :---:|
 | R&D	| Yes/No |
-| Sales | |
+| Sales | Yes/No |
 | Executives and Executive Assistants |	Yes/No |
 | IT Operations/InfoSec	| Yes/No |
 |Support Staff/Everyone Else | Yes/No|
