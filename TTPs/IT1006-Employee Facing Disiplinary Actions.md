@@ -1,6 +1,6 @@
 # **Employee Facing Disiplinary Actions**
 
-ID: T1006
+ID: IT1006
 
 Tactic: Initial Discovery
 
