@@ -15,7 +15,7 @@
 |   | [Activity Outside of Normal Hours](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1013-Activity%20Outside%20of%20Normal%20Hours.md) | 3 | 4 | Forwarding Internal Communications to 3rd Party |
 |   | [Suspicious Creatation of New Account](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1014-Suspicious%20Creatation%20of%20New%20Account.md) | 3 | 4 | Insider Trading Violations |
 |   | [Correspondence with Former Employee](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1015-Correspondence%20with%20Former%20Employee.md) | 3 | 4 | Use of Offensive/Malicious Tools |
-|   | Modify/Delete Logs | 3 | 4 | Exposure of Sensitive/Confidential Information in Public Repositories |
+|   | [Modify/Delete Logs](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1016-Modify-Delete%20Logs.md) | 3 | 4 | Exposure of Sensitive/Confidential Information in Public Repositories |
 |   | Use of Offensive/Malicious Tools | 3 | 4 | 5 |
 |   | 2 | 3 | 4 | 5 |
 |   | 2 | 3 | 4 | 5 |
