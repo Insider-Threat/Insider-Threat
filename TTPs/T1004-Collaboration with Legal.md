@@ -1,4 +1,4 @@
-**Collaboration with Legal**
+# **Collaboration with Legal**
 
 ID: T1004
 
@@ -17,23 +17,18 @@ Created: 04/28/2020
 Last Modified: 04/28/2020
 
 
-**Overview:**
+## **Overview:**
 Collaborating and building a strong partnership with the Legal department is critical for building a successful Insider Threat program. This partnership will help you identify key policies and stakeholders you can rely on during an investigation or incident.
 
-**Procedure Examples:**
 
-
-Example Scenario:
+## **Example Scenario:**
 
   
 
-**Mitigations**
+## **Mitigations**
 
 
-
-
-
-**Groups Applied To:**
+## **Groups Applied To:**
 | Group Name | Monitoring (Yes/No) |
 | :---: | :---:|
 | R&D	| Yes/No |
@@ -42,7 +37,7 @@ Example Scenario:
 | IT Operations/InfoSec	| Yes/No |
 |Support Staff/Everyone Else | Yes/No|
 
-**Detection**
+## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
 |  | | | |  
