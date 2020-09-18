@@ -1,4 +1,4 @@
-**Collaboration with HR**
+# **Collaboration with HR**
 
 ID: T1003
 
@@ -17,23 +17,22 @@ Created: 04/28/2020
 Last Modified: 04/28/2020
 
 
-**Overview:**
+## **Overview:**
 Collaborating and building a strong partnership with Human Resources departments is critical for building a successful Insider Threat program. This partnership will help you identify key policies and stakeholders you can rely on during an investigation or incident.
 
-**Procedure Examples:**
 
-
-Example Scenario:
-
+## **Example Scenario:**
+| Name | Description |
+| :---:| :---:|
   
 
-**Mitigations**
+## **Mitigations**
 
 
 
 
 
-**Groups Applied To:**
+## **Groups Applied To:**
 | Group Name | Monitoring (Yes/No) |
 | :---: | :---:|
 | R&D	| Yes/No |
@@ -42,7 +41,7 @@ Example Scenario:
 | IT Operations/InfoSec	| Yes/No |
 |Support Staff/Everyone Else | Yes/No|
 
-**Detection**
+## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
 |  | | | |  
