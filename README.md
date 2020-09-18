@@ -13,7 +13,7 @@
 |   | [Suspicious Intranet Activity](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1011-Suspicious%20Intranet%20Activity.md) | 3 | 4 | Excessive Overtime |
 |   | [Activity Outside of Normal Scope](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1012-Activity%20Outside%20of%20Normal%20Scope.md) | 3 | 4 | Misappropriations of Assets |
 |   | [Activity Outside of Normal Hours](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1013-Activity%20Outside%20of%20Normal%20Hours.md) | 3 | 4 | Forwarding Internal Communications to 3rd Party |
-|   | Suspicious Creatation of New Account | 3 | 4 | Insider Trading Violations |
+|   | [Suspicious Creatation of New Account](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1014-Suspicious%20Creatation%20of%20New%20Account.md) | 3 | 4 | Insider Trading Violations |
 |   | Correspondence with Former Employee | 3 | 4 | Use of Offensive/Malicious Tools |
 |   | Modify/Delete Logs | 3 | 4 | Exposure of Sensitive/Confidential Information in Public Repositories |
 |   | Use of Offensive/Malicious Tools | 3 | 4 | 5 |
