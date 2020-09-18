@@ -1,6 +1,6 @@
 # **Modify/Delete Logs**
 
-ID: T1016
+ID: IT1016
 
 Tactic: Initial Discovery
 

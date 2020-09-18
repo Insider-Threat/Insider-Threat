@@ -1,6 +1,6 @@
 # **Corporate Restructuring/Reduction in Workforce**
 
-ID: T1008
+ID: IT1008
 
 Tactic: Initial Discovery
 

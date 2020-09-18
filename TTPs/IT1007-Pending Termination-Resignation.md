@@ -1,6 +1,6 @@
 # **Pending Termination/Resignation**
 
-ID: T1007
+ID: IT1007
 
 Tactic: Initial Discovery
 
