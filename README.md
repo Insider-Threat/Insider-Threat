@@ -15,7 +15,7 @@
 |   | Activity Outside of Normal Hours | 3 | 4 | Forwarding Internal Communications to 3rd Party |
 |   | Creatation of New Account | 3 | 4 | Insider Trading Violations |
 |   | Correspondence with Former Employee | 3 | 4 | Use of Offensive/Malicious Tools |
-|   | Modify/Delete Logs | 3 | 4 | 5 |
+|   | Modify/Delete Logs | 3 | 4 | Exposure of Sensitive/Confidential Information in Public Repositories |
 |   | Use of Offensive/Malicious Tools | 3 | 4 | 5 |
 |   | 2 | 3 | 4 | 5 |
 |   | 2 | 3 | 4 | 5 |
