@@ -2,7 +2,7 @@
 
 ## **Insider Threat Matrix**
 
-| **Proactive Messures** | **Initial Discovery** | **Collection** | **Exfiltraction** | **Business Impact**|
+| **Proactive Messures** | **Initial Discovery** | **Collection** | **Exfiltration** | **Business Impact**|
 | :---: | :---: | :---: | :---: | :---: |
 | [DLP Enforcement](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1000-DLP%20Enforcement.md) | [Browsing Job Sites](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1005-Browsing%20Job%20Sites.md) | Downloads from Application |  Upload to 3rd Party File Share | Bulk Delete Files |
 | [Prevent Backups to Unapproved Storage Locations](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1001-Unapproved%20Storage%20Locations.md)  | [Employee Facing Disiplinary Actions](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1006-Employee%20Facing%20Disiplinary%20Actions.md) | Downloads from Internal File Share | External Email with Attachments | Destruction of Physical Device |
