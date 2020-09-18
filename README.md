@@ -9,7 +9,7 @@
 | [Employee Awareness](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1002-Employee%20Awareness%20copy.md) | [Pending Termination/Resignation](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1007-Pending%20Termination-Resignation.md) | Downloads from Email | Upload to Removable Storage Device | Changing Service Account Password |
 | [Collaboration with HR](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1003-Partnership%20with%20HR.md) | [Corporate Restructuring/Reduction in Workforce](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1008-Corporate%20Restructuring-Reduction%20in%20Workforcemd.md) | Downloads from IM/Chat | AirDrop to a Device | Malicious Changes to Application/System |
 | [Collaboration with Legal](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1004-Collaboration%20with%20Legal.md) | [Correspondence with Competitors](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1009-Correspondence%20with%20Competitors.md) | Downloads from Intranet | Printing | Malicious Social Media Post |
-|   | Attempted Access to Restricted Areas | Copying System Backups | 4 | Misappropriations of Funds |
+|   | [Attempted Access to Restricted Areas](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/T1010-Attempted%20Access%20to%20Restricted%20Areas.md) | Copying System Backups | 4 | Misappropriations of Funds |
 |   | Suspicious Intranet Activity | 3 | 4 | Excessive Overtime |
 |   | Activity Outside of Normal Scope | 3 | 4 | Misappropriations of Assets |
 |   | Activity Outside of Normal Hours | 3 | 4 | Forwarding Internal Communications to 3rd Party |
