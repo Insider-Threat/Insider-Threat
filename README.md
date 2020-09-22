@@ -2,6 +2,8 @@
 
 ## **Insider Threat Matrix**
 
+Note: The numbers inside the matrix are place holders used for formating and will be removed. 
+
 | **Proactive Messures** | **Initial Discovery** | **Collection** | **Exfiltration** | **Business Impact**|
 | :---: | :---: | :---: | :---: | :---: |
 | [DLP Enforcement](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/IT1000-DLP%20Enforcement.md) | [Browsing Job Sites](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/IT1005-Browsing%20Job%20Sites.md) | [Downloads from Application](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/IT1018-Downloads%20from%20Application.md) |  Upload to 3rd Party File Share | Bulk Delete Files |
