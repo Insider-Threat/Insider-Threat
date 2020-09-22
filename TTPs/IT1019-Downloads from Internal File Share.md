@@ -1,6 +1,6 @@
-# **Downloads from Application**
+# **Downloads from Internal File Share**
 
-ID: IT1018
+ID: IT1019
 
 Tactic: Collection
 
