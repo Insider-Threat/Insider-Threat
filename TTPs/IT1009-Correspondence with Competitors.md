@@ -45,8 +45,7 @@ Correspondence with a competitor is not typical behavior and may be an indicatio
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
-
+| Name of Alert | Brief Description | Link to Alert | Risk Score|  
 
 
 

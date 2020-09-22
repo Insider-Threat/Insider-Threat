@@ -44,7 +44,7 @@ Most employees follow a standard pattern of behavior based on their job function
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|  
 
 
 

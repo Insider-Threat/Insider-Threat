@@ -47,7 +47,7 @@ The possession and/or use Malware or Offensive/Penetration testing tools is limi
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|   
 
 
 

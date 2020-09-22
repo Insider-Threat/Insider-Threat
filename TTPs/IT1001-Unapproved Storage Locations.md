@@ -44,7 +44,7 @@ Companies should have a policy for approved locations to backup devices/systems,
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|   
 
 
 

@@ -47,7 +47,7 @@ An employee is working on a project needs to send a file to a 3rd party. The DLP
 **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|  
 
 
 

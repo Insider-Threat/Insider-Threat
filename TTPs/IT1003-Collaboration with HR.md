@@ -44,7 +44,7 @@ Collaborating and building a strong partnership with Human Resources departments
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|   
 
 
 

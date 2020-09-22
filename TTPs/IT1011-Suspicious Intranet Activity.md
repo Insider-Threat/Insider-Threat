@@ -45,7 +45,7 @@ Suspicious Intranet (internal websites) activity would encompass activities like
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|   
 
 
 

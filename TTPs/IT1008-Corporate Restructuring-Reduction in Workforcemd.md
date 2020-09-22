@@ -46,7 +46,7 @@ On occasion, when Corporate restructuring or reductions of workforce are taking 
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|  
 
 
 

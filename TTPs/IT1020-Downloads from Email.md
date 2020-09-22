@@ -47,7 +47,7 @@ A lot of sensitive information is shared via email, when data transfers occur, t
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|  
 
 
 

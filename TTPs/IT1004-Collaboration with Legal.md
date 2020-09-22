@@ -40,7 +40,7 @@ Collaborating and building a strong partnership with the Legal department is cri
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|   
 
 
 

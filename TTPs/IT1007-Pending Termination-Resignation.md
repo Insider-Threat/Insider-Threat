@@ -47,7 +47,7 @@ The ability to identify and investigate anomalous activity prior to an employee 
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|  
 
 
 

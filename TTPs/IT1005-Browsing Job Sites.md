@@ -46,7 +46,7 @@ An employee that is seeking new opportunities may also be thinking about leaving
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|    
 
 
 

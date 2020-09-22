@@ -46,7 +46,7 @@ When an employee has been reported to have violated Corporate guidelines, additi
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|   
 
 
 

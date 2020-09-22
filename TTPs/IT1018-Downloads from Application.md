@@ -47,7 +47,7 @@ When large data transfers occur, that are abnormal to a users normal behavior, i
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|   
 
 
 

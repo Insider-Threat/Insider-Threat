@@ -43,7 +43,7 @@ Preventing Insider Threats should be one of the main goals of any program. By br
 ## **Detection**
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
-|  | | | |  
+| Name of Alert | Brief Description | Link to Alert | Risk Score|  
 
 
 
