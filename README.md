@@ -19,5 +19,4 @@
 |   | [Modify/Delete Logs](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/IT1016-Modify-Delete%20Logs.md) |  |   | Exposure of Sensitive/Confidential Information in Public Repositories |
 |   | [Use of Offensive/Malicious Tools](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/IT1017-Use%20of%20Offensive-Malicious%20Tools.md) |  |   |   |
 |   |  |  |   |   |
-|   |  |  |   |   |
-|   |  |  |   |   |
+
