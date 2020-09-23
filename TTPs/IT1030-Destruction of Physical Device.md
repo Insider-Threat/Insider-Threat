@@ -1,6 +1,6 @@
-# **Bulk Delete Files**
+# **Destruction of Physical Device**
 
-ID: IT1029
+ID: IT1030
 
 Tactic: Business Impact
 
@@ -24,7 +24,7 @@ The loss of data can be detrimental to business operations and cost companies a 
 
 | Name | Description |
 | :---:| :---:|
-| Malicious Destruction of Data | A user is about to leave the Company, before their last day, the user deletes all of the files on the companies File Share.   |
+| Malicious Destruction of Data | A user is about to leave the Company, before their last day, the user physically destroys the servers that host a critical application.   |
 
 
 ## **Mitigations**
