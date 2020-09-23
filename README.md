@@ -2,7 +2,6 @@
 
 ## **Insider Threat Matrix**
 
-Note: The numbers inside the matrix are place holders used for formating and will be removed. 
 
 | **Proactive Messures** | **Initial Discovery** | **Collection** | **Exfiltration** | **Business Impact**|
 | :---: | :---: | :---: | :---: | :---: |
@@ -18,7 +17,7 @@ Note: The numbers inside the matrix are place holders used for formating and wil
 |   | [Suspicious Creatation of New Account](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/IT1014-Suspicious%20Creatation%20of%20New%20Account.md) |  |   | Insider Trading Violations |
 |   | [Correspondence with Former Employee](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/IT1015-Correspondence%20with%20Former%20Employee.md) |  |   | Use of Offensive/Malicious Tools |
 |   | [Modify/Delete Logs](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/IT1016-Modify-Delete%20Logs.md) |  |   | Exposure of Sensitive/Confidential Information in Public Repositories |
-|   | [Use of Offensive/Malicious Tools](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/IT1017-Use%20of%20Offensive-Malicious%20Tools.md) |  |   | 5 |
-|   |  |  |   | 5 |
-|   |  |  |   | 5 |
-|   |  |  |   | 5 |
+|   | [Use of Offensive/Malicious Tools](https://github.com/matt-snyder-stuff/Insider-Threat/blob/master/TTPs/IT1017-Use%20of%20Offensive-Malicious%20Tools.md) |  |   |   |
+|   |  |  |   |   |
+|   |  |  |   |   |
+|   |  |  |   |   |
