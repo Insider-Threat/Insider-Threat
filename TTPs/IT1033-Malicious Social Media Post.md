@@ -29,7 +29,7 @@ Social Media allows users to share information rapidly and to a large audience. 
 
 
 ## **Mitigations**
-
+1. Monitor Social Media post that mention your companies name and/or products. This will allow you to find potential damaging posts early.
 
 
 
