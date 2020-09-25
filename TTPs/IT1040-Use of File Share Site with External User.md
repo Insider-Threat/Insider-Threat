@@ -18,7 +18,7 @@ Last Modified: 04/28/2020
 
 
 ## **Overview:**
-When a Company uses a File Sharing or Hosting Application, like Microsoft SharePoint or Box, users are about to share files with others outside of the Company. A malicious Insider, may use this as an opportunity to share data with others or allow their personal account access to restricted data in an attempt to avoid detection. 
+When a Company uses a File Sharing or Hosting Application, like Microsoft SharePoint or Box, users may have the ability to share files with others outside of the Company. A malicious Insider, may use this as an opportunity to share data with others or allow their personal account access to restricted data in an attempt to avoid detection. 
 
 ## **Example Scenario:**
 
