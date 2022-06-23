@@ -18,7 +18,7 @@ Last Modified: 04/28/2020
 
 
 ## **Overview:**
-Employees that are paid an hourly rate, or contractors that bill at an hourly rate, typically will submit some form of a time card/report stating the amount of hours they worked. These time cards/reports can be manipulated to add more time than the person actually worked, resulting in the person being paid for work they did not preform. 
+Employees that are paid an hourly rate, or contractors that bill at an hourly rate, typically will submit some form of a time card/report stating the amount of hours they worked. These time cards/reports can be manipulated to add more time than the person actually worked, resulting in the person being paid for work they did not preform.
 
 ## **Example Scenario:**
 
@@ -28,8 +28,8 @@ Employees that are paid an hourly rate, or contractors that bill at an hourly ra
 
 
 ## **Mitigations**
-1. Monitor timekeeping for unusual activity. 
-2. Require management review of all submitted time cards/reports. 
+1. Monitor timekeeping for unusual activity.
+2. Require management review of all submitted time cards/reports.
 
 
 
@@ -46,8 +46,3 @@ Employees that are paid an hourly rate, or contractors that bill at an hourly ra
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
 | Name of Alert | Brief Description | Link to Alert | Risk Score|  
-
-
-
-
-
