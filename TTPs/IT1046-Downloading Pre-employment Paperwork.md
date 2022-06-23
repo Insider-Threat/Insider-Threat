@@ -12,13 +12,13 @@ Data Sources: Endpoint logs, DLP events
 
 Version: 1.0
 
-Created: 06/06/22
+Created: 06/23/22
 
-Last Modified: 06/06/22
+Last Modified: 06/23/22
 
 
 ## **Overview:**
-The presence of employment paperwork on a company device can be an indication that the employee is about to leave the company or may be looking to work at multiple places at the same time. Be on the lookout for documents like background screening information, new hire welcome guide, or offer letters.
+The presence of pre-employment paperwork on a company device can be an indication that the employee is about to leave the company or may be looking to work at multiple places at the same time. Be on the lookout for newly created documents like background screening information, new hire welcome guide, or offer letters.
 
 ## **Example Scenario:**
 
