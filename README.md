@@ -19,4 +19,4 @@
 |   | [Modify/Delete Logs](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/IT1016-Modify-Delete%20Logs.md) |  |   | [Exposure of Sensitive/Confidential Information in Public Repositories](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/IT1039-Exposure%20of%20Sensitive-Confidential%20Information%20in%20Public%20Repositories.md) |
 |   | [Use of Offensive/Malicious Tools](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/IT1017-Use%20of%20Offensive-Malicious%20Tools.md) |  |   |   |
 |   | [Multiple Employees Leaving to Same Company](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/IT1042-Multiple%20Employees%20Leaving%20to%20Same%20Company.md) | |  |   
-|  | [Downloading Pre-Employment Paperwork](https://github.com/Insider-Threat/Insider-Threat/tree/master/TTPs)  |  |
+|  | [Downloading Pre-Employment Paperwork](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/IT1046-Downloading%20Pre-employment%20Paperwork.md)  |  |
