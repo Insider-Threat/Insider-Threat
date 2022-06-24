@@ -18,7 +18,7 @@ Last Modified: 04/28/2020
 
 
 ## **Overview:**
-Suspicious Intranet (internal websites) activity would encompass activities like browsing an unusually high number of pages, receiving a high number of access denied responses, or searching for highly sensitive information. These activities may be a sign that the user is hunting for information that is not related to their job duties. 
+Suspicious Intranet (internal websites) activity would encompass activities like browsing an unusually high number of pages, receiving a high number of access denied responses, searching for credentials (ssh keys, passwords, tokens),or searching for highly sensitive information. These activities may be a sign that the user is hunting for information that is not related to their job duties. 
 
 ## **Example Scenario:**
 
