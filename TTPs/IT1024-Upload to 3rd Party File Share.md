@@ -18,7 +18,7 @@ Last Modified: 04/28/2020
 
 
 ## **Overview:**
-When large data transfers occur, that are abnormal to a users normal behavior, it may be an indication that the user is exfiltrating data.
+3rd party and/or unapproved storage locations are easy to use and often free to the end user. These sites make it easy for an individual to upload information so they may access it outside of the Corporate environment. Examples include: Google Drive, Dropbox, GitHub, Box.
 
 ## **Example Scenario:**
 
