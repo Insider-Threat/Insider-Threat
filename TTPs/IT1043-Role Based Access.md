@@ -2,7 +2,7 @@
 
 ID: IT1043
 
-Tactic: Proactive Messures
+Tactic: Proactive Measures
 
 Platform: Linux / Mac / Mobile / Windows
 
@@ -22,7 +22,7 @@ Limiting a user to just the data and/or systems they need to complete their job 
 
 ## **Example Scenario:**
 
-  
+
 
 ## **Mitigations**
 
@@ -40,8 +40,3 @@ Limiting a user to just the data and/or systems they need to complete their job 
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
 | Name of Alert | Brief Description | Link to Alert | Risk Score|   
-
-
-
-
-

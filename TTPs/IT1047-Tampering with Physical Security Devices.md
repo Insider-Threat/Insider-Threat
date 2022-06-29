@@ -2,7 +2,7 @@
 
 ID: IT1047
 
-Tactic: Proactive Messures
+Tactic: Business Impact
 
 Platform: Linux / Mac / Mobile / Windows
 
@@ -18,7 +18,7 @@ Last Modified: 06/23/22
 
 
 ## **Overview:**
-Physical Security devices like cameras, badge readers, and security alarms are now common in most environments. An employee may attempt to disable or alter these devices to conceal their activity and/or to avoid detection. 
+Physical Security devices like cameras, badge readers, and security alarms are now common in most environments. An employee may attempt to disable or alter these devices to conceal their activity and/or to avoid detection.
 
 ## **Example Scenario:**
 

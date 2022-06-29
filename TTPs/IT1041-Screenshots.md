@@ -18,18 +18,18 @@ Last Modified: 04/28/2020
 
 
 ## **Overview:**
-Most devices have built-in software that allows the user to take a screenshot of the content being displayed and there are many 3rd party tools that have this feature. A user can take advantage of this type of technology to make copies of data and bypass existing security measures. 
+Most devices have built-in software that allows the user to take a screenshot of the content being displayed and there are many 3rd party tools that have this feature. A user can take advantage of this type of technology to make copies of data and bypass existing security measures.
 
 ## **Example Scenario:**
 
 | Name | Description |
 | :---:| :---:|
 | Screenshots of Sensitive/Confidential Data | An employee is looking to circumvent the security controls in place that would either prevent them from collecting data or leave an audit trail showing they took the data, so they take screenshots of the information and later export the photos.  |
-  
+
 
 ## **Mitigations**
 
-1. Place role based access controls on data repositories. 
+1. Place role based access controls on data repositories.
 
 
 
@@ -47,8 +47,3 @@ Most devices have built-in software that allows the user to take a screenshot of
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
 | Name of Alert | Brief Description | Link to Alert | Risk Score|  
-
-
-
-
-

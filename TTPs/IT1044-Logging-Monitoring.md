@@ -2,7 +2,7 @@
 
 ID: IT1044
 
-Tactic: Proactive Messures
+Tactic: Proactive Measures
 
 Platform: Linux / Mac / Mobile / Windows
 
@@ -18,11 +18,11 @@ Last Modified: 04/28/2020
 
 
 ## **Overview:**
-Having the necessary data will allow organizations to detect suspicious activity, investigate and respond to a potential incident, and monitor for threats. Its important to collect all the data you need to piece together a users activity and clearly determine what has taken place. 
+Having the necessary data will allow organizations to detect suspicious activity, investigate and respond to a potential incident, and monitor for threats. Its important to collect all the data you need to piece together a users activity and clearly determine what has taken place.
 
 ## **Example Scenario:**
 
-  
+
 
 ## **Mitigations**
 
@@ -40,8 +40,3 @@ Having the necessary data will allow organizations to detect suspicious activity
 | Name | Description | Link | Risk Score |
 | :---: | :---:|:---: | :---:|
 | Name of Alert | Brief Description | Link to Alert | Risk Score|   
-
-
-
-
-

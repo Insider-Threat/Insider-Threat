@@ -2,7 +2,7 @@
 
 ID: IT1046
 
-Tactic: Proactive Messures
+Tactic: Initial Discovery
 
 Platform: Linux / Mac / Mobile / Windows
 
