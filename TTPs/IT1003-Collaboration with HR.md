@@ -18,7 +18,9 @@ Last Modified: 04/28/2020
 
 
 ## **Overview:**
-Collaborating and building a strong partnership with Human Resources departments is critical for building a successful Insider Threat program. This partnership will help you identify key policies and stakeholders you can rely on during an investigation or incident.
+Collaborating and building a strong partnership with Human Resources departments is critical for building a successful Insider Threat program. This partnership will help you identify key policies and stakeholders you can rely on during an investigation or incident. As well as, providing information on employees that are on Performance Improvement Plans (PIP), facing disciplinary action, or part of a layoff.
+
+
 
 
 ## **Example Scenario:**
