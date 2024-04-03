@@ -7,3 +7,4 @@ The matrix provides a framework for assessing the organization's current state o
 By using a maturity matrix, organizations can identify gaps in their current program and prioritize areas for improvement. This helps them to build a more comprehensive and effective insider threat program that can reduce the risk of incidents and protect the organization's critical assets. 
 
 Ultimately, a mature insider threat program can help organizations to maintain their reputation, minimize financial losses, and comply with regulations and industry standards.
+
