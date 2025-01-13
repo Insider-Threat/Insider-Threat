@@ -1,8 +1,8 @@
-**DLP Enforcement**
+# **DLP Enforcement**
 
 ID: IT1000
 
-Tactic: Proactive Messures
+Tactic: Proactive Measures
 
 Platform: Linux / Mac / Mobile / Windows
 
@@ -14,38 +14,57 @@ Version: 1.0
 
 Created: 04/28/2020
 
-Last Modified: 06/06/2022
+Last Modified: 01/13/2025
 
+---
 
-**Overview:**
-Data Loss Prevention (DLP) tools assist with detecting when sensitive information, like Intellectual Property (example: Source Code) or Personal Identifiable Information (PII)(example: Name, Date of Birth, Drivers License #), is being transferred.
+## **Overview:**
 
-**Procedure Examples:**
-Data Loss Prevention tools are used to monitor for sensitive data transfers, this can include company Intellectual Property or PII information. These tools monitor files for specific criteria and sends an Alert to the SOC team when a match is found. When an Alert is received the SOC Team will begin an investigation to validate the Alert.
+Data Loss Prevention (DLP) tools assist in detecting when sensitive information, such as Intellectual Property (e.g., source code) or Personally Identifiable Information (PII) (e.g., name, date of birth, driver's license number), is being transferred.  
+DLP systems use predefined rules, keywords, or machine learning to scan files, emails, and uploads for sensitive data patterns. By automating detection, they help prevent accidental and malicious data breaches.
 
-Example Scenario:
+---
 
-An employee is working on a project needs to send a file to a 3rd party. The DLP tool scans the file and finds that there is Source Code found inside, this will create an Alert for the SOC team and they will begin an investigation to validate the alert.
+## **Procedure Examples:**
 
-**Mitigations**
-1. By blocking or preventing the data transfer when the DLP tool has a detection.
-2. By displaying a pop-up message, to inform the employee, that the DLP tool has detected something within their data transfer that may be sensitive and allow them to stop the data transfer.
-3. Monitor DLP logs and respond to violations as needed.  
+DLP tools monitor for sensitive data transfers, including Intellectual Property or PII. These tools scan files based on specific criteria and alert the Security Operations Center (SOC) team when matches are detected. Upon receiving an alert, the SOC team investigates to validate the detection.
 
+### **Example Scenarios:**
 
+1. **Unauthorized File Transfer:**  
+   An employee working on a project needs to send a file to a third party. The DLP tool scans the file and detects source code, generating an alert. The SOC team investigates and finds the transfer is unauthorized, preventing the potential breach.
 
+2. **False Positive - Legitimate Use Case:**  
+   An employee sends encrypted customer records to an approved vendor. The DLP tool flags the transmission due to encryption patterns. After investigation, the SOC team verifies the transfer is authorized and clears the alert.
 
+---
 
-**Groups Applied To:**
-| Group Name | Monitoring (Yes/No) |
-| :---: | :---:|
-| R&D	| Yes/No |
-| Sales | Yes/No|
-| Executives and Executive Assistants |	Yes/No |
-| IT Operations/InfoSec	| Yes/No |
-|Support Staff/Everyone Else | Yes/No|
+## **Mitigations**
 
-**Detection**
-| Name | Description | Link | Risk Score |
-| :---: | :---:|:---: | :---:|
-| Name of Alert | Brief Description | Link to Alert | Risk Score|  
+1. Block or prevent data transfers when the DLP tool detects sensitive information.  
+2. Display a pop-up message to inform employees of sensitive data detection and allow them to stop the transfer.  
+3. Provide periodic training to employees on recognizing and handling sensitive data.  
+4. Conduct regular tests of DLP rules to ensure they are configured accurately and minimize false positives.  
+5. Review and update DLP rules to align with evolving compliance standards and organizational policies.
+
+---
+
+## **Groups Applied To:**
+
+| Group Name                        | Monitoring (Yes/No) |
+|-----------------------------------|:-------------------:|
+| R&D                               | Yes/No              |
+| Sales                             | Yes/No              |
+| Executives and Executive Assistants | Yes/No            |
+| IT Operations/InfoSec             | Yes/No              |
+| Support Staff/Everyone Else       | Yes/No              |
+
+---
+
+## **Detection**
+
+| Name              | Description                                                      | Link             | Risk Score |
+|-------------------|------------------------------------------------------------------|------------------|:----------:|
+| File Transfer Alert | Detects file transfers containing Intellectual Property (e.g., source code). | [Example Link](#) | High       |
+| PII Email Alert   | Detects PII (e.g., SSN, credit card numbers) sent via email to external domains. | [Example Link](#) | Medium     |
+| USB Copy Alert    | Flags attempts to copy sensitive files onto unauthorized USB devices. | [Example Link](#) | High       |
