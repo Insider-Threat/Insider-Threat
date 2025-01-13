@@ -2,7 +2,7 @@
 
 ID: IT1001
 
-Tactic: Proactive Messures
+Tactic: Proactive Measures
 
 Platform: Linux / Mac / Mobile / Windows
 
@@ -14,39 +14,49 @@ Version: 1.0
 
 Created: 04/28/2020
 
-Last Modified: 04/28/2020
+Last Modified: 01/13/2025
 
+---
 
 ## **Overview:**
-Companies should have a policy for approved locations to backup devices/systems, so data can be safely managed and recovered when needed. Where possible, backups to an employees personal external drive should be prevented.
 
+Companies should enforce policies to designate approved locations for backups, ensuring data is securely managed and recoverable in compliance with organizational standards. Backups to unapproved devices, such as an employee's personal external drive, pose a risk of data leakage and must be restricted.
+
+---
 
 ## **Example Scenario:**
-| Name | Description |
-| :---:| :---:|
-|Backup to External Drive | An employee is planning on leaving the company, before their last day, they backup their work laptop to their personal external hard drive so they can bring with them all of the data they have acquired during their employment.  |
 
+| **Name**               | **Description**                                                                                      |
+|-------------------------|------------------------------------------------------------------------------------------------------|
+| Backup to External Drive | An employee, planning to leave the company, backs up their work laptop to a personal external drive to retain company data. |
+
+---
 
 ## **Mitigations**
-1. Using things like Group Policies, DLP Tools, or Anti-Virus software to put prevention methods in place to block the use of backups to external hard drives.
 
+1. Use Group Policies to disable or restrict backup functionality to unapproved storage devices.  
+2. Deploy DLP tools to monitor and block unauthorized data transfers to external drives.  
+3. Configure Anti-Virus or Endpoint Detection tools to detect and alert on unauthorized backup attempts.  
+4. Educate employees on the risks and consequences of improper data backups.  
 
+---
 
 ## **Groups Applied To:**
-| Group Name | Monitoring (Yes/No) |
-| :---: | :---:|
-| R&D	| Yes/No |
-| Sales | Yes/No |
-| Executives and Executive Assistants |	Yes/No |
-| IT Operations/InfoSec	| Yes/No |
-|Support Staff/Everyone Else | Yes/No|
+
+| **Group Name**                | **Monitoring (Yes/No)** |
+|--------------------------------|:----------------------:|
+| R&D                            | Yes/No               |
+| Sales                          | Yes/No               |
+| Executives and Executive Assistants | Yes/No         |
+| IT Operations/InfoSec          | Yes/No               |
+| Support Staff/Everyone Else    | Yes/No               |
+
+---
 
 ## **Detection**
-| Name | Description | Link | Risk Score |
-| :---: | :---:|:---: | :---:|
-| Name of Alert | Brief Description | Link to Alert | Risk Score|   
 
-
-
-
-
+| **Name**                | **Description**                                                                                 | **Link**          | **Risk Score** |
+|-------------------------|-------------------------------------------------------------------------------------------------|-------------------|:--------------:|
+| External Backup Alert    | Detects backup attempts to unauthorized external storage devices.                              | [Example Link](#) | High           |
+| Unauthorized File Copy Alert | Flags large-scale file transfers to unapproved storage locations.                            | [Example Link](#) | Medium         |
+| Backup Tool Activity Alert | Monitors activity from backup tools (e.g., external hard drive connection logs).              | [Example Link](#) | High           |
