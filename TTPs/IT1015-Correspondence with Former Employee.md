@@ -81,5 +81,3 @@ Former employees who have left the company, especially those now working for com
    - Reinforce acceptable communication guidelines, especially concerning sharing work-related information with external parties, including former employees.
 
 ---
-
-Would you like to add more context, refine this further, or move to the next TTP? 😊
