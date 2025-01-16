@@ -65,19 +65,4 @@ Former employees who have left the company, especially those now working for com
 | File Sharing Activity Alert    | Tracks attempts to share sensitive data through email, cloud services, or messaging apps.            | [Example Link](#) | High           |
 | Behavioral Anomaly Alert       | Detects unusual access patterns or activity on sensitive systems coinciding with detected correspondence. | [Example Link](#) | Medium         |
 
----
 
-### **Additional Considerations**
-
-1. **Why It’s Critical**:
-   - Correspondence with former employees is often overlooked but poses significant risks, especially if the former employee works for a competitor or departed under contentious circumstances.
-   - Current employees may unknowingly or intentionally share information, making detection and prevention crucial.
-
-2. **Broader Monitoring**:
-   - Monitor social media platforms like LinkedIn, where former employees may reach out to current employees.  
-   - Implement stricter controls on sharing sensitive data outside approved channels.
-
-3. **Employee Communication Policies**:
-   - Reinforce acceptable communication guidelines, especially concerning sharing work-related information with external parties, including former employees.
-
----
