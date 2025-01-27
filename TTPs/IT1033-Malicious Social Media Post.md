@@ -8,46 +8,60 @@ Platform: Linux / Mac / Mobile / Windows
 
 Permissions Required: Admin
 
-Data Sources: Application / Authentication / Endpoint / Network / Tools / Email
+Data Sources: Application / Authentication / Endpoint / Network / Tools / Email / Social Media Monitoring Tools
 
-Version: 1.0
+Version: 1.1
 
 Created: 04/28/2020
 
-Last Modified: 04/28/2020
+Last Modified: 01/27/2025
 
+---
 
 ## **Overview:**
-Social Media allows users to share information rapidly and to a large audience. An Insider, with access to valuable information, could post this information for all the world to see before the company is ready to disclose that information. Another threat vector would be an Insider spreading false information in order to damage the companies reputation. 
+
+Social media platforms allow users to rapidly share information with a vast audience. Insiders with access to sensitive or proprietary information can exploit these platforms to disclose data without authorization, potentially violating regulatory requirements and damaging the company's reputation. Additionally, disgruntled employees may post false information to tarnish the company’s image or undermine trust with customers and partners. Monitoring social media for mentions of the company and its products is vital to detect and mitigate these risks.
+
+---
 
 ## **Example Scenario:**
 
-| Name | Description |
-| :---:| :---:|
-| Malicious Social Media Post | A user become disgruntled and post damaging information on Social Media sites.  |
+| **Name**                              | **Description**                                                                                      |
+|---------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Unauthorized Data Disclosure**      | A disgruntled employee posts confidential financial results on a public social media platform before the company’s official disclosure, violating compliance regulations. |
+| **Reputational Damage via False Claims** | An insider posts false claims about unsafe practices or faulty products to damage the company’s reputation and stock value. |
+| **Leaking Trade Secrets**             | A user shares proprietary designs, code snippets, or other intellectual property on social media or public forums for personal gain or retaliation. |
+| **Spreading Internal Disputes Publicly** | An employee shares sensitive internal emails or communications, including disciplinary actions, to embarrass the company. |
 
-
+---
 
 ## **Mitigations**
-1. Monitor Social Media post that mention your companies name and/or products. This will allow you to find potential damaging posts early.
 
+1. Use social media monitoring tools to track mentions of the company name, products, and key executives, enabling early detection of malicious posts.  
+2. Establish clear policies on social media use for employees, including guidelines for sharing company-related information.  
+3. Provide training to employees on the legal and reputational risks of unauthorized social media posts.  
+4. Work with legal and public relations teams to establish protocols for responding to damaging social media posts.  
+5. Implement Data Loss Prevention (DLP) tools to detect and block attempts to exfiltrate sensitive data for sharing on public forums or social media.  
 
+---
 
 ## **Groups Applied To:**
-| Group Name | Monitoring (Yes/No) |
-| :---: | :---:|
-| R&D	| Yes/No |
-| Sales | Yes/No |
-| Executives and Executive Assistants |	Yes/No |
-| IT Operations/InfoSec	| Yes/No |
-|Support Staff/Everyone Else | Yes/No|
+
+| **Group Name**                | **Monitoring (Yes/No)** |
+|--------------------------------|:----------------------:|
+| R&D                            | Yes/No               |
+| Sales                          | Yes/No               |
+| Executives and Executive Assistants | Yes/No         |
+| IT Operations/InfoSec          | Yes/No               |
+| Support Staff/Everyone Else    | Yes/No               |
+
+---
 
 ## **Detection**
-| Name | Description | Link | Risk Score |
-| :---: | :---:|:---: | :---:|
-| Name of Alert | Brief Description | Link to Alert | Risk Score|  
 
-
-
-
+| **Name**                       | **Description**                                                                                 | **Link**          | **Risk Score** |
+|--------------------------------|-------------------------------------------------------------------------------------------------|-------------------|:--------------:|
+| Social Media Monitoring Alert  | Flags mentions of company names, products, or proprietary information on public platforms.       | [Example Link](#) | High           |
+| Data Exfiltration Alert        | Detects attempts to export sensitive data for posting on social media or forums.                | [Example Link](#) | High           |
+| Behavioral Anomaly Alert       | Flags unusual behavior, such as accessing large amounts of sensitive data shortly before resignation or public disclosures. | [Example Link](#) | Medium         |
 
