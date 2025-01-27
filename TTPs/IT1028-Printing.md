@@ -10,45 +10,59 @@ Permissions Required: Admin
 
 Data Sources: Application / Authentication / Endpoint / Network / Tools / Email
 
-Version: 1.0
+Version: 1.1
 
 Created: 04/28/2020
 
-Last Modified: 04/28/2020
+Last Modified: 01/27/2025
 
+---
 
 ## **Overview:**
-Copy machines and printers are widely used across many companies and have been mostly ignored by security monitoring tools. These devices can often allow a user to avoid Data Loss Prevention (DLP) tools or other restrictions by accessing documents that were printed and/or copied by other users. A user might also avoid detection by printing out sensitive documents that they have direct access to, again possibly avoiding DLP tools or other restrictions. 
+
+Printers and copiers are commonly used in organizations but are often overlooked in security monitoring. These devices can provide opportunities for data exfiltration, either by printing sensitive documents directly or exploiting stored print jobs on shared devices. Users may bypass traditional Data Loss Prevention (DLP) tools and other controls by transferring sensitive information to paper, creating a security blind spot that requires careful monitoring and mitigation.
+
+---
+
 ## **Example Scenario:**
 
-| Name | Description |
-| :---:| :---:|
-| Data Exfiltration Via Printer | A user is about to leave the Company, before their last day, the user decides they would like to take technical details of a project they are working on. Worried they will lose access to the work they have created, the user prints out all of the project data they have.       |
-| Sensitive/Confidential Discovery and Exfiltration| A user connects to an offices shared Copier/Printer, from there they can view previous "jobs" that the device has stored that they would not otherwise have access to. From this queue, the user is able to find a sensitive document that a Vice President recently printed out containing a list of customers and how much they are spending on certain products. The user is then able to also print the sensitive file from themself.  
+| **Name**                               | **Description**                                                                                      |
+|----------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Data Exfiltration via Printer**      | A user planning to leave the company prints out sensitive project details, such as proprietary designs or technical specifications, before their final day. |
+| **Sensitive Document Discovery**       | A user accesses a shared copier/printer and discovers stored print jobs, including a Vice President’s document containing confidential customer and pricing information. They reprint the file for themselves without authorization. |
+| **Mass Document Printing**             | An insider planning to exfiltrate large volumes of data prints hundreds of pages of sensitive information over the course of a few days to avoid detection. |
+
+---
 
 ## **Mitigations**
-1. Ensuring proper configurations of Copy/Printers. 
-2. Monitoring printer and copier activity. 
 
+1. Configure printers and copiers to require authentication for access, preventing unauthorized viewing or printing of stored jobs.  
+2. Use secure print release functionality, where users must authenticate at the device to retrieve their printed jobs.  
+3. Monitor printing activity for unusual volumes or access to sensitive files, integrating logs with SIEM tools.  
+4. Disable the storage of print jobs on shared devices, or limit the retention period for stored print jobs.  
+5. Educate employees on proper use of shared devices and the consequences of printing sensitive information without authorization.  
 
-
-
+---
 
 ## **Groups Applied To:**
-| Group Name | Monitoring (Yes/No) |
-| :---: | :---:|
-| R&D	| Yes/No |
-| Sales | Yes/No |
-| Executives and Executive Assistants |	Yes/No |
-| IT Operations/InfoSec	| Yes/No |
-|Support Staff/Everyone Else | Yes/No|
+
+| **Group Name**                | **Monitoring (Yes/No)** |
+|--------------------------------|:----------------------:|
+| R&D                            | Yes/No               |
+| Sales                          | Yes/No               |
+| Executives and Executive Assistants | Yes/No         |
+| IT Operations/InfoSec          | Yes/No               |
+| Support Staff/Everyone Else    | Yes/No               |
+
+---
 
 ## **Detection**
-| Name | Description | Link | Risk Score |
-| :---: | :---:|:---: | :---:|
-| Name of Alert | Brief Description | Link to Alert | Risk Score|  
 
-
-
+| **Name**                       | **Description**                                                                                 | **Link**          | **Risk Score** |
+|--------------------------------|-------------------------------------------------------------------------------------------------|-------------------|:--------------:|
+| Large Volume Printing Alert    | Detects excessive or unusual printing activity, such as a single user printing hundreds of pages in a short time. | [Example Link](#) | High           |
+| Sensitive Document Printing Alert | Monitors for printing activity involving sensitive or confidential files, such as customer lists or financial data. | [Example Link](#) | High           |
+| Shared Printer Job Access Alert | Flags unauthorized access to stored print jobs on shared printers or copiers.                  | [Example Link](#) | Medium         |
+| Anomalous Printing Time Alert  | Identifies printing activity outside of normal business hours, such as late at night or on weekends. | [Example Link](#) | Medium         |
 
 
