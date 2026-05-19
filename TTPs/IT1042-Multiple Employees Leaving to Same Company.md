@@ -1,6 +1,6 @@
 # **Multiple Employees Leaving to Same Company**  
 
-ID: IT1015  
+ID: IT1042  
 
 Tactic: Initial Discovery  
 
@@ -82,5 +82,4 @@ Organizations must monitor for **anomalous data access, unusual downloads, and u
    - Use **SIEM and behavior analytics** to identify **anomalous activity from employees planning to leave.**  
 
 ---
-
 
