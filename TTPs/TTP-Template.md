@@ -59,23 +59,21 @@ External References: MITRE ATT&CK / NIST / Vendor Documentation / Other
 
 ---
 
-## **Detection Engineering Notes:**  
+## **Program Notes:**  
 
-### Required Telemetry  
-
--  
-
-### Example Logic  
-
-```text
-Describe the detection sequence, joins, thresholds, or behavioral baseline.
-```
-
-### Common False Positives  
+### Useful Information Sources  
 
 -  
 
-### Tuning Guidance  
+### Review Questions  
+
+-  
+
+### Common Business Exceptions  
+
+-  
+
+### Program Guidance  
 
 -  
 
@@ -90,7 +88,7 @@ Describe the detection sequence, joins, thresholds, or behavioral baseline.
 | **Framework** | **Mapping** | **Notes** |
 |---------------|-------------|-----------|
 | MITRE ATT&CK | TBD | Add technique or sub-technique if applicable. |
-| Data Source | TBD | Add required telemetry source. |
-| Control | TBD | Add relevant preventive, detective, or response control. |
+| Data Source | TBD | Add relevant information source. |
+| Control | TBD | Add relevant preventive, monitoring, or response control. |
 
 ---

@@ -1,11 +1,11 @@
 # Data Sources
 
-Insider threat detection depends on connecting behavior to context. The table below maps common telemetry sources to the TTPs they most often support.
+Insider threat program reviews depend on connecting behavior to context. The table below maps common information sources to the risk areas they most often support.
 
 | **Data Source** | **Useful For** | **Example Signals** |
 |---|---|---|
 | Identity and authentication logs | Account misuse, unusual access, OAuth consent, privilege activity | Impossible travel, failed logins, new app consent, risky sessions |
-| Endpoint telemetry | Collection, staging, removable media, sync clients, process behavior | File copies, archive creation, USB insertion, sync client execution |
+| Endpoint information | Collection, staging, removable media, sync clients, process behavior | File copies, archive creation, USB insertion, sync client execution |
 | DLP events | Sensitive data movement and policy violations | Sensitive labels, blocked uploads, clipboard events, email/file violations |
 | Email logs | External forwarding, attachments, competitor correspondence, data movement | Large attachments, auto-forwarding, external recipients, unusual volume |
 | SaaS audit logs | Cloud file sharing, AI tools, OAuth grants, collaboration activity | Public links, external users, mass downloads, app permissions |
@@ -15,20 +15,20 @@ Insider threat detection depends on connecting behavior to context. The table be
 | Physical security logs | Restricted-area access and device tampering | Badge access, denied entry, after-hours access, alarm events |
 | Financial and business systems | Fraud, misappropriation, timekeeping, insider trading risk | Payment changes, access to confidential deal data, time edits |
 
-## Minimum Useful Telemetry
+## Minimum Useful Information Sources
 
 A small program can start with:
 
 - Identity/authentication logs
-- Endpoint file and process telemetry
+- Endpoint file and process information
 - Email metadata
 - Cloud file-sharing audit logs
 - DLP or sensitivity-label events
 - HR status context with proper governance
 
-## Enrichment Fields
+## Useful Context Fields
 
-The most useful detections usually include:
+The most useful reviews usually include:
 
 - User, department, manager, role, and employment status
 - Device identity and management state
@@ -42,6 +42,5 @@ The most useful detections usually include:
 
 - Limit access to HR and employee-risk context.
 - Document who can view insider threat alerts and why.
-- Separate detection engineering from employment decisions.
+- Separate security review from employment decisions.
 - Review use cases with legal, privacy, HR, and security leadership.
-

@@ -13,16 +13,16 @@ This project is intended to help security, legal, privacy, HR, and risk teams de
 ## Suggested Program Workflow
 
 1. **Scope:** Decide which business units, data types, and employee populations are in scope.
-2. **Data Sources:** Identify which telemetry sources are already available and which require onboarding.
+2. **Data Sources:** Identify which information sources are already available and which require onboarding.
 3. **Prioritize:** Select a small number of high-risk TTPs instead of trying to detect everything at once.
-4. **Build Detections:** Convert TTP detection ideas into platform-specific analytics.
-5. **Tune:** Review false positives, expected business behavior, and alert thresholds.
+4. **Define Review Criteria:** Decide what evidence, context, and business exceptions matter for each selected TTP.
+5. **Triage:** Review expected business behavior, false positives, and risk indicators.
 6. **Respond:** Define escalation paths that include security, HR, legal, privacy, and business owners.
 7. **Mature:** Revisit the maturity matrix quarterly or after major business/process changes.
 
 ## Good First TTPs
 
-These TTPs usually provide strong early value because they map to common telemetry:
+These TTPs usually provide strong early value because they map to common program concerns:
 
 - `IT1024` Upload to 3rd Party File Share
 - `IT1025` External Email with Attachments
@@ -37,9 +37,8 @@ These TTPs usually provide strong early value because they map to common telemet
 
 ## Operating Principles
 
-- Pair technical detections with documented business process.
+- Pair monitoring concepts with documented business process.
 - Use HR or employment signals only with appropriate legal, privacy, and governance review.
 - Prefer risk correlation over single-event alerting whenever possible.
 - Document false positives and expected business exceptions.
 - Review sensitive monitoring use cases regularly to maintain trust and compliance.
-
