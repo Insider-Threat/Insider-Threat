@@ -83,6 +83,8 @@ Relevant TTPs:
 - `IT1052` Sensitive Data in External AI Tools
 - `IT1053` Personal Cloud Sync Client
 - `IT1054` Copying Sensitive Data to Clipboard
+- `IT1055` Excessive AI Token or Compute Usage
+- `IT1056` Unauthorized AI Use for External Work
 
 Planning focus:
 
@@ -90,3 +92,4 @@ Planning focus:
 - Third-party app review
 - Personal account and unmanaged storage expectations
 - Employee guidance on sensitive data handling
+- AI cost ownership, budget review, and acceptable-use expectations

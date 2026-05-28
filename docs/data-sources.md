@@ -9,6 +9,7 @@ Insider threat program reviews depend on connecting behavior to context. The tab
 | DLP events | Sensitive data movement and policy violations | Sensitive labels, blocked uploads, clipboard events, email/file violations |
 | Email logs | External forwarding, attachments, competitor correspondence, data movement | Large attachments, auto-forwarding, external recipients, unusual volume |
 | SaaS audit logs | Cloud file sharing, AI tools, OAuth grants, collaboration activity | Public links, external users, mass downloads, app permissions |
+| AI usage and billing records | AI cost governance, token usage, model access, non-business usage | Usage spikes, high-cost model selection, subscription spend, project attribution |
 | Cloud storage logs | Data exposure, unauthorized sharing, bulk access | Public buckets, anonymous links, unusual download patterns |
 | Source code repository logs | IP exposure, credential leakage, unusual cloning | Public repo creation, secret commits, unusual clone/export behavior |
 | HR data | Risk context and response routing | Resignation notice, role change, leave status, department turnover |

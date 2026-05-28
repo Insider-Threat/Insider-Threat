@@ -34,6 +34,8 @@ These TTPs usually provide strong early value because they map to common program
 - `IT1052` Sensitive Data in External AI Tools
 - `IT1053` Personal Cloud Sync Client
 - `IT1054` Copying Sensitive Data to Clipboard
+- `IT1055` Excessive AI Token or Compute Usage
+- `IT1056` Unauthorized AI Use for External Work
 
 ## Operating Principles
 
