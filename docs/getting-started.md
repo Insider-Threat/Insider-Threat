@@ -36,6 +36,10 @@ These TTPs usually provide strong early value because they map to common program
 - `IT1054` Copying Sensitive Data to Clipboard
 - `IT1055` Excessive AI Token or Compute Usage
 - `IT1056` Unauthorized AI Use for External Work
+- `IT1057` Unauthorized Browser Extension or Plugin Use
+- `IT1058` Sensitive Data in Meeting Transcripts or Recordings
+- `IT1059` Unapproved AI Agent or Automation Workflow
+- `IT1060` Mass Export from SaaS Application
 
 ## Operating Principles
 
