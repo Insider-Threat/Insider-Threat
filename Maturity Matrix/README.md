@@ -8,3 +8,4 @@ By using a maturity matrix, organizations can identify gaps in their current pro
 
 Ultimately, a mature insider threat program can help organizations to maintain their reputation, minimize financial losses, and comply with regulations and industry standards.
 
+The current matrix includes maturity rows for administrative foundations, tooling, custom detections, training, operations, and modern cloud/SaaS/AI risks such as AI tool governance, OAuth application consent, personal cloud sync clients, clipboard monitoring, and emerging collection/exfiltration detections.
