@@ -1,0 +1,47 @@
+# Data Sources
+
+Insider threat detection depends on connecting behavior to context. The table below maps common telemetry sources to the TTPs they most often support.
+
+| **Data Source** | **Useful For** | **Example Signals** |
+|---|---|---|
+| Identity and authentication logs | Account misuse, unusual access, OAuth consent, privilege activity | Impossible travel, failed logins, new app consent, risky sessions |
+| Endpoint telemetry | Collection, staging, removable media, sync clients, process behavior | File copies, archive creation, USB insertion, sync client execution |
+| DLP events | Sensitive data movement and policy violations | Sensitive labels, blocked uploads, clipboard events, email/file violations |
+| Email logs | External forwarding, attachments, competitor correspondence, data movement | Large attachments, auto-forwarding, external recipients, unusual volume |
+| SaaS audit logs | Cloud file sharing, AI tools, OAuth grants, collaboration activity | Public links, external users, mass downloads, app permissions |
+| Cloud storage logs | Data exposure, unauthorized sharing, bulk access | Public buckets, anonymous links, unusual download patterns |
+| Source code repository logs | IP exposure, credential leakage, unusual cloning | Public repo creation, secret commits, unusual clone/export behavior |
+| HR data | Risk context and response routing | Resignation notice, role change, leave status, department turnover |
+| Physical security logs | Restricted-area access and device tampering | Badge access, denied entry, after-hours access, alarm events |
+| Financial and business systems | Fraud, misappropriation, timekeeping, insider trading risk | Payment changes, access to confidential deal data, time edits |
+
+## Minimum Useful Telemetry
+
+A small program can start with:
+
+- Identity/authentication logs
+- Endpoint file and process telemetry
+- Email metadata
+- Cloud file-sharing audit logs
+- DLP or sensitivity-label events
+- HR status context with proper governance
+
+## Enrichment Fields
+
+The most useful detections usually include:
+
+- User, department, manager, role, and employment status
+- Device identity and management state
+- Source application and destination application
+- Data sensitivity label or repository classification
+- File count, byte volume, and time window
+- External domain, recipient, app publisher, or storage provider
+- Prior baseline for the user and peer group
+
+## Data Governance Notes
+
+- Limit access to HR and employee-risk context.
+- Document who can view insider threat alerts and why.
+- Separate detection engineering from employment decisions.
+- Review use cases with legal, privacy, HR, and security leadership.
+

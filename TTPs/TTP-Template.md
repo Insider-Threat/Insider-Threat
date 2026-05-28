@@ -16,6 +16,10 @@ Created: 04/28/2020
 
 Last Modified: 01/30/2025  
 
+Related TTPs: IT#### / IT####  
+
+External References: MITRE ATT&CK / NIST / Vendor Documentation / Other  
+
 ---
 
 ## **Overview:**  
@@ -52,5 +56,41 @@ Last Modified: 01/30/2025
 
 | **Name** | **Description** | **Link** | **Risk Score** |
 |---------|---------------|--------|--------------|
+
+---
+
+## **Detection Engineering Notes:**  
+
+### Required Telemetry  
+
+-  
+
+### Example Logic  
+
+```text
+Describe the detection sequence, joins, thresholds, or behavioral baseline.
+```
+
+### Common False Positives  
+
+-  
+
+### Tuning Guidance  
+
+-  
+
+### Response Guidance  
+
+-  
+
+---
+
+## **Mappings:**  
+
+| **Framework** | **Mapping** | **Notes** |
+|---------------|-------------|-----------|
+| MITRE ATT&CK | TBD | Add technique or sub-technique if applicable. |
+| Data Source | TBD | Add required telemetry source. |
+| Control | TBD | Add relevant preventive, detective, or response control. |
 
 ---

@@ -1,5 +1,17 @@
 # Insider-Threat
 
+## **How To Use This Repo**
+
+This repository is a practical reference for building, reviewing, and maturing an insider threat program. Start with the matrix below to identify relevant behaviors, then open individual TTP pages for scenarios, mitigations, and detection ideas.
+
+Recommended workflow:
+
+1. Review the [Insider Threat Matrix](#insider-threat-matrix) to identify behaviors that matter to your organization.
+2. Use [TTPs/ttp_primary.csv](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/ttp_primary.csv) as a sortable index for tactics, platforms, permissions, and data sources.
+3. Use the [Maturity Matrix](https://github.com/Insider-Threat/Insider-Threat/tree/master/Maturity%20Matrix) to assess program readiness and prioritize gaps.
+4. Review [Detection Engineering Guide](https://github.com/Insider-Threat/Insider-Threat/blob/master/docs/detection-engineering.md), [Data Sources](https://github.com/Insider-Threat/Insider-Threat/blob/master/docs/data-sources.md), and [Starter Detection Examples](https://github.com/Insider-Threat/Insider-Threat/blob/master/docs/starter-detection-examples.md) when turning TTPs into alerts.
+5. Use [TTP-Template.md](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/TTP-Template.md) when adding or expanding TTP content.
+
 ## **Insider Threat Matrix**
 
 
