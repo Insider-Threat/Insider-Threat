@@ -22,3 +22,5 @@
 |  | [Downloading Pre-Employment Paperwork](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/IT1046-Downloading%20Pre-employment%20Paperwork.md) |  |  |  |
 |  | [Unusually Short Employment](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/IT1049-Unusually%20Short%20Employment.md) |  |  |  |
 |  | [Nation State Recruiting Program](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/IT1050-Nation%20State%20Recruiting%20Program.md) |  |  |  |
+|  | [Unauthorized OAuth Application Consent](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/IT1051-Unauthorized%20OAuth%20Application%20Consent.md) |  | [Sensitive Data in External AI Tools](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/IT1052-Sensitive%20Data%20in%20External%20AI%20Tools.md) |  |
+|  |  |  | [Personal Cloud Sync Client](https://github.com/Insider-Threat/Insider-Threat/blob/master/TTPs/IT1053-Personal%20Cloud%20Sync%20Client.md) |  |
