@@ -41,6 +41,7 @@ These TTPs usually provide strong early value because they map to common program
 - `IT1059` Unapproved AI Agent or Automation Workflow
 - `IT1060` Mass Export from SaaS Application
 - `IT1061` Productivity Monitoring Evasion
+- `IT1062` Unapproved Remote Access Tool Use
 
 ## Operating Principles
 

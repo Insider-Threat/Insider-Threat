@@ -71,6 +71,7 @@ Relevant TTPs:
 - `IT1038` Insider Trading Violations
 - `IT1048` Unauthorized 3rd Party Outsourcing
 - `IT1061` Productivity Monitoring Evasion
+- `IT1062` Unapproved Remote Access Tool Use
 
 Planning focus:
 
@@ -79,6 +80,7 @@ Planning focus:
 - Business-unit escalation paths
 - Legal and compliance coordination
 - Productivity expectations, approved exceptions, and HR review path
+- Approved remote support, vendor access, and device-control expectations
 
 ## Modern SaaS and AI Risk
 
@@ -94,6 +96,7 @@ Relevant TTPs:
 - `IT1058` Sensitive Data in Meeting Transcripts or Recordings
 - `IT1059` Unapproved AI Agent or Automation Workflow
 - `IT1060` Mass Export from SaaS Application
+- `IT1062` Unapproved Remote Access Tool Use
 
 Planning focus:
 
@@ -103,3 +106,4 @@ Planning focus:
 - Employee guidance on sensitive data handling
 - AI cost ownership, budget review, and acceptable-use expectations
 - Browser extension, meeting assistant, and workflow automation governance
+- Remote access and screen-control tool governance

@@ -13,6 +13,7 @@ Insider threat program reviews depend on connecting behavior to context. The tab
 | Browser and extension inventory | Unapproved plugins, page capture, scraping, unmanaged sync | New extensions, broad permissions, AI assistants, personal sync destinations |
 | Meeting and transcript records | Sensitive meeting content, AI notes, recording exposure | External shares, broad permissions, third-party note takers, transcript exports |
 | Workflow automation logs | AI agents, bots, low-code workflows, connected SaaS actions | New connectors, broad scopes, automated file movement, unowned workflows |
+| Remote access and support logs | Unapproved remote desktop, support tools, third-party device access | Remote-control sessions, unmanaged tools, long screen shares, external support activity |
 | Cloud storage logs | Data exposure, unauthorized sharing, bulk access | Public buckets, anonymous links, unusual download patterns |
 | Source code repository logs | IP exposure, credential leakage, unusual cloning | Public repo creation, secret commits, unusual clone/export behavior |
 | HR data | Risk context and response routing | Resignation notice, role change, leave status, department turnover |
