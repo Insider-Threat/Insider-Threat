@@ -40,6 +40,7 @@ These TTPs usually provide strong early value because they map to common program
 - `IT1058` Sensitive Data in Meeting Transcripts or Recordings
 - `IT1059` Unapproved AI Agent or Automation Workflow
 - `IT1060` Mass Export from SaaS Application
+- `IT1061` Productivity Monitoring Evasion
 
 ## Operating Principles
 

@@ -70,6 +70,7 @@ Relevant TTPs:
 - `IT1036` Misappropriations of Assets
 - `IT1038` Insider Trading Violations
 - `IT1048` Unauthorized 3rd Party Outsourcing
+- `IT1061` Productivity Monitoring Evasion
 
 Planning focus:
 
@@ -77,6 +78,7 @@ Planning focus:
 - Asset and timekeeping governance
 - Business-unit escalation paths
 - Legal and compliance coordination
+- Productivity expectations, approved exceptions, and HR review path
 
 ## Modern SaaS and AI Risk
 

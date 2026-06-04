@@ -18,6 +18,7 @@ Insider threat program reviews depend on connecting behavior to context. The tab
 | HR data | Risk context and response routing | Resignation notice, role change, leave status, department turnover |
 | Physical security logs | Restricted-area access and device tampering | Badge access, denied entry, after-hours access, alarm events |
 | Financial and business systems | Fraud, misappropriation, timekeeping, insider trading risk | Payment changes, access to confidential deal data, time edits |
+| Productivity and presence signals | Timekeeping misuse, availability concerns, productivity-monitoring evasion | Artificial activity, unusual solo meetings, anti-idle tools, lockscreen avoidance |
 
 ## Minimum Useful Information Sources
 

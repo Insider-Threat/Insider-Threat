@@ -31,6 +31,7 @@ Start with a small set of TTPs that align to real business risk. A practical fir
 - Define who reviews concerns and what evidence is needed before escalation.
 - Maintain a list of approved business exceptions.
 - Review TTP priorities after major organizational changes, layoffs, mergers, new SaaS tools, or policy changes.
+- Use the [Review Schedule](https://github.com/Insider-Threat/Insider-Threat/blob/master/docs/review-schedule.md) to keep repository updates on a monthly, quarterly, semiannual, and annual cadence.
 
 ## Response Framing
 
